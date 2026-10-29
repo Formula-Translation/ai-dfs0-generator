@@ -1,4 +1,4 @@
-# AI DFS0 Generator
+# DFS0 Generator
 
 Describe a time series in plain language and get a ready-to-use DHI MIKE `.dfs0` file. An LLM extracts the parameters, asks for anything missing, and a FastAPI + mikeio service writes the file.
 
